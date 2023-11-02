@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Build a streamlit web app from scratch (including nosql database + interactive sankey diagram) By: Code Is Fun
+
 
 
 import streamlit as st
