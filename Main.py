@@ -28,8 +28,7 @@ from streamlit import runtime
 # .please()
 
 
-# page behavior
-# https://www.webfx.com/tools/emoji-cheat-sheet/
+
 
 def main():
 
