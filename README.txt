@@ -34,6 +34,10 @@ code .
 
 python -m streamlit.web.cli run Main.py 
 
+OR
+
+python Main.py
+
 
 # Data storage:
 
