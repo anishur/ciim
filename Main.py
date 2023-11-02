@@ -19,13 +19,8 @@ import streamlit as st
 import sys
 from streamlit.web import cli as stcli
 from streamlit import runtime 
-#import warnings
-# warnings.filterwarnings("ignore")
 
-#import shutup
 
-# shutup.are_warnings_muted()
-# .please()
 
 
 
