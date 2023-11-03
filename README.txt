@@ -2,39 +2,12 @@
 
 https://deta.space
 
-user name: anishur7127
-password: AnIs@7127
-e-mail: anis.rahman@gmail.com
+user name: a*****r***7
+password: *n*s@***7
+e-mail: ****.******@gmail.com
 
 
-## MySQL
-
-	port = 3300
-	password=1234
-	DBAdmin=anishur
-
-
-## Go to the Folder:
-
-C:\Users\cecol\Documents\Jupyter Notebook - ML Work\Dashboard\DASHBOARD_CiiM_Project
-
-## write: 
-
-cmd 
-
--> it will open 'command Prompt' window
-
-# Command Prompt
-
-code .
-
--> it will open VS code
-
-## Run the code in TERMINAL:
-
-python -m streamlit.web.cli run Main.py 
-
-OR
+To run Python scripts:
 
 python Main.py
 
